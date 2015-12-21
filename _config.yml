@@ -1,0 +1,28 @@
+name: exelexa
+favicon: null
+layout_spectrum: 0.9357260265387595
+typography_spectrum: 0.43017385923303664
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5841332166455686
+  lightness: 0.7758344891481102
+  saturation: 0.9616493850480765
+  rhythmicContrast: 0.2531496901065111
+purpose: []
